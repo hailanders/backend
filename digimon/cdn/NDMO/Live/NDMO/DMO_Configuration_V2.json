@@ -1,3 +1,4 @@
+
 {
   "ServerInfo": {
     "Maintenance": false,
@@ -9,7 +10,7 @@
   "PatchInfo": {
     "DownloadUrl": "https://hailanders.github.io/backend///UpdatePatch/",
     "MinPatchVersion": 1,
-    "PatchVersion": 7
+    "PatchVersion": 6
   },
   "LanuncherInfo": {
     "DownloadPath": "https://hailanders.github.io/backend///Launcher/",
