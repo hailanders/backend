@@ -4,7 +4,7 @@
     "Maintenance": false,
     "Message": {
       "Title": "Adventure Tamer Online.",
-      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/CHppJSkT for more information."
+      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/rFZcqnNQR2 for more information."
     }
   },
   "PatchInfo": {
@@ -108,8 +108,8 @@
   "MainUrl": [
     {
       "TypeName": "GSP",
-      "HomePageUrl": "https://discord.gg/EV5pfSGF",
-      "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
+      "HomePageUrl": "https://discord.gg/rFZcqnNQR2",
+      "GameDownloadUrl": "https://discord.gg/rFZcqnNQR2",
       "MainPageUrl": "https://thales201212.github.io/backend//main.html",
       "BanerUrl": "https://thales201212.github.io/backend/banner.html",
       "ClientIP": "144.217.123.20",
