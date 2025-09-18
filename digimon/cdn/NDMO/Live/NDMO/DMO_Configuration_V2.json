@@ -2,14 +2,14 @@
   "ServerInfo": {
     "Maintenance": false,
     "Message": {
-      "Title": "Digital History Online.",
-      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/EV5pfSGF for more information."
+      "Title": "Adventure Tamer Online.",
+      "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/CHppJSkT for more information."
     }
   },
   "PatchInfo": {
     "DownloadUrl": "https://hailanders.github.io/backend///UpdatePatch/",
     "MinPatchVersion": 1,
-    "PatchVersion": 5
+    "PatchVersion": 6
   },
   "LanuncherInfo": {
     "DownloadPath": "https://hailanders.github.io/backend///Launcher/",
